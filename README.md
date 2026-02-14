@@ -5,7 +5,6 @@
 </div>
 
 <!-- GIFs ONLY AFTER the header -->
-<br>
 
   <img align="left" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
   <img align="right" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
@@ -34,7 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" style="margin: 14px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" style="margin: 14px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="margin: 14px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" style="margin: 14px;" />
 </div>
 
 <br><br>
+
+---
 

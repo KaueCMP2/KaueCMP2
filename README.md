@@ -1,9 +1,5 @@
-<h2 align="left">Codes and more codes. 💻</h2>
-
-###
-
-<div align="center">
-</div>
+<h1 align="left"> Hello my name is Kaue</h1> 
+<h2 align="left">Codes and codes. 💻</h2>
 
 ###
 

@@ -4,12 +4,19 @@
   </a>
 </div>
 
+--- 
+
+<br><br><br>
+
 <!-- GIFs ONLY AFTER the header -->
 
   <img align="left" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
   <img align="right" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
 
-<br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
+
 
 ---
 
@@ -20,6 +27,8 @@
 </div>
 
 ---
+
+<br><br><br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" style="margin: 14px;" />
@@ -35,3 +44,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="margin: 14px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" style="margin: 14px;" />
 </div>
+
+
+<br><br><br>
+
+---
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=2977F7&width=435&lines=+And+if+you+don't+know%2C+Now+you+know+%F0%9F%8E%B5" alt="Typing SVG" /></a>
+</div>
+
+---

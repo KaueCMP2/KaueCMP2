@@ -1,57 +1,264 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2977F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kaue+%F0%9F%91%8B%F0%9F%8F%BE;Full-Stack+Developer;Codes+and+Codes+%F0%9F%92%BB" />
+  <!-- Cabeçalho Dinâmico Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=3000&color=2977F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%AA+Sergio;Desenvolvedor+Full+Stack+C%23+%2F+.NET;" alt="Typing SVG" />
+
+  <!-- Divisor Gradiente -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <defs>
+      <linearGradient id="blue-rgb-gradient-rev" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#16161E" />
+        <stop offset="50%" stop-color="#2977F7" />
+        <stop offset="100%" stop-color="#16161E" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="4" fill="url(#blue-rgb-gradient-rev)" rx="2">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <br>
+
+<!-- Badges de Redes Sociais / Contatos -->
+<!-- <a href="https://linkedin.com/in/kaue-sergio" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn"/>
+</a>
+<a href="mailto:seu-email@provedor.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" style="margin-left: 12px;" />
+</a>
+
+  <br><br> -->
+
+  <p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;">
+    <strong>Desenvolvedor Full Stack</strong> especializado no ecossistema <strong>.NET</strong>, com sólida experiência na criação de soluções escaláveis e resilientes. Atuo no desenvolvimento de APIs RESTful robustas usando <strong>C# e ASP.NET Core</strong>, mapeamento de banco de dados de alta performance com <strong>SQL Server / EF Core</strong>, e criação de interfaces modernas e responsivas utilizando <strong>Next.js, React e TypeScript</strong>.
+  </p>
+
+  <br>
+
+  <!-- Chips de Foco Rápido -->
+  <code>Clean Architecture</code> &nbsp;&bull;&nbsp; 
+  <code>Domain-Driven Design (DDD)</code> &nbsp;&bull;&nbsp; 
+  <code>Autenticação JWT</code> &nbsp;&bull;&nbsp; 
+  <code>SOLID & POO</code>
+</div>
+
+<br><br>
+
+<!-- Seção: Tecnologias e Ferramentas -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Tecnologias+e+Ferramentas;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
+
+  <table width="100%" border="0" cellpadding="10">
+    <tr valign="top">
+      <!-- Back-End & DB -->
+      <td width="33%" align="center">
+        <h4 style="color: #2977F7;">Back-End & Data</h4>
+        <br>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
+      </td>
+      <!-- Front-End & Design -->
+      <td width="33%" align="center">
+        <h4 style="color: #2977F7;">Front-End & UX/UI</h4>
+        <br>
+        <img src="https://skillicons.dev/icons?i=nextjs,react" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
+        <br><br>
+        <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
+      </td>
+      <!-- Ferramentas & Processos -->
+      <td width="33%" align="center">
+        <h4 style="color: #2977F7;">Ferramentas</h4>
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,github,figma,notion,trello" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<!-- Seção: Certificações -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Certifica%C3%A7%C3%B5es;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
+
+  <a href="https://www.freecodecamp.org/certification/kauecmp/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20%26%20freeCodeCamp-Foundational%20C%23-2977F7?style=for-the-badge&logo=csharp&logoColor=white" alt="Certificação C#" />
   </a>
+
+  <br><br>
+
+  <table width="80%" border="0" style="border: 1px solid #2977F7; border-radius: 12px; background-color: #16161E; padding: 15px; text-align: left;">
+    <tr>
+      <td>
+        <strong style="color: #2977F7; font-size: 1.1em;">🎓 Foundational C# Certification</strong><br>
+        <p style="color: #A9B1D6; margin-top: 8px; font-size: 0.95em;">
+          Emitida pela <strong>Microsoft</strong> em parceria com a <strong>freeCodeCamp</strong>. Valida competências fundamentais de engenharia de software, princípios de orientação a objetos (OOP), gerenciamento de memória em .NET, tratamento de exceções, manipulação avançada de dados e sintaxe moderna do C#.
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
---- 
+<br><br>
 
-<br><br><br>
+<!-- Seção: Projetos em Destaque -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Projetos+em+Destaque;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
 
-<!-- GIFs ONLY AFTER the header -->
+  <!-- Grid de Projetos Modernos usando Tabelas HTML -->
+  <table width="100%" border="0" cellpadding="8">
+    <tr>
+      <!-- Projeto 1 -->
+      <td width="50%" valign="top">
+        <div style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 10px; background-color: #16161E; padding: 15px; height: 180px; text-align: left; position: relative;">
+          <h4 style="color: #2977F7; margin: 0 0 8px 0;">📦 TechStock</h4>
+          <p style="color: #A9B1D6; font-size: 0.9em; margin: 0 0 12px 0;">Sistema Full Stack corporativo para controle avançado de estoque e movimentações patrimoniais.</p>
+          <div style="margin-bottom: 12px;">
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+          </div>
+          <a href="https://github.com/KaueCMP2/TechStock-Fullstack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+        </div>
+      </td>
+      <!-- Projeto 2 -->
+      <td width="50%" valign="top">
+        <div style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 10px; background-color: #16161E; padding: 15px; height: 180px; text-align: left; position: relative;">
+          <h4 style="color: #2977F7; margin: 0 0 8px 0;">🎮 RoyalGames</h4>
+          <p style="color: #A9B1D6; font-size: 0.9em; margin: 0 0 12px 0;">E-commerce completo de jogos digitais com gerenciador de catálogo e integração de pagamentos mock.</p>
+          <div style="margin-bottom: 12px;">
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+          </div>
+          <a href="https://github.com/KaueCMP2/RoyalGames-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <!-- Projeto 3 -->
+      <td width="50%" valign="top">
+        <div style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 10px; background-color: #16161E; padding: 15px; height: 180px; text-align: left; position: relative;">
+          <h4 style="color: #2977F7; margin: 0 0 8px 0;">🍔 VhBurguer</h4>
+          <p style="color: #A9B1D6; font-size: 0.9em; margin: 0 0 12px 0;">Sistema ágil para processamento e despacho de pedidos em tempo real para food-delivery.</p>
+          <div style="margin-bottom: 12px;">
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+          </div>
+          <a href="https://github.com/KaueCMP2/VhBurguer-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+        </div>
+      </td>
+      <!-- Projeto 4 -->
+      <td width="50%" valign="top">
+        <div style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 10px; background-color: #16161E; padding: 15px; height: 180px; text-align: left; position: relative;">
+          <h4 style="color: #2977F7; margin: 0 0 8px 0;">🏦 Gestão de Patrimônios</h4>
+          <p style="color: #A9B1D6; font-size: 0.9em; margin: 0 0 12px 0;">Painel analítico para auditoria, rastreamento físico e depreciação financeira de ativos patrimoniais.</p>
+          <div style="margin-bottom: 12px;">
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+            <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+          </div>
+          <a href="https://github.com/KaueCMP2/GestaoPatrimonios-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <img align="left" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
-  <img align="right" src="./assets/Huey_Goes_Super_Saiyan.gif" height="150" style="margin: 0 40px;" />
+<br><br>
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
+<!-- Seção: Análise do GitHub -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=M%C3%A9tricas+%26+An%C3%A1lises;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
 
+  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+    <tr>
+      <!-- Cartão Principal de Métricas do Github (TokyoNight simplificado para maior compatibilidade) -->
+      <td align="center" width="50%" valign="middle">
+        <img height="150" src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=KaueCMP2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+      </td>
+      <!-- Top Languages (Donut) -->
+      <td align="center" width="50%" valign="middle">
+        <img height="150" src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs/?username=KaueCMP2&layout=compact&langs_count=5&theme=dracula" />
+      </td>
+    </tr>
+  </table>
 
----
+  <br>
+
+  <!-- Streak Stats (TokyoNight Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaueCMP2&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%" />
+</div>
+
+<br><br>
+
+<!-- Seção: Gráfico de Atividade -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Hist%C3%B3rico+de+Atividade;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaueCMP2&bg_color=16161E&color=2977F7&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
+</div>
+
+<br><br>
+
+<!-- Seção: Objetivos Atuais -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Foco+e+Objetivos+%7C+2026;" alt="Typing SVG" />
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
+    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
+  </svg>
+  
+  <br>
+
+  <table width="85%" border="0" cellpadding="8" style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 12px; background-color: #16161E; text-align: left;">
+    <tr>
+      <td>
+        <ul style="list-style-type: '🚀 '; padding-left: 20px; color: #A9B1D6; line-height: 1.8; font-size: 1.05em;">
+          <li>Primeira oportunidade de mercado como Desenvolvedor Full Stack</li>
+          <li>Domínio avançado de padrões com ASP.NET Core & EF Core (CQRS, Repository Pattern)</li>
+          <li>Aprofundamento prático em Clean Architecture, Domain-Driven Design (DDD) e TDD</li>
+          <li>Desenvolvimento de APIs robustas e arquiteturas de backend altamente escaláveis</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=2977F7&center=true&vCenter=true&width=500&lines=My+Stack" />
-  </a>
+  <p style="color: #565F89; font-size: 0.85em;"><i>README gerado com 💙 e boas práticas de design para desenvolvedores.</i></p>
 </div>
-
----
-
-<br><br><br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" style="margin: 14px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" style="margin: 14px;" />
-</div>
-
-
-<br><br><br>
-
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=10000&color=2977F7&width=435&lines=+And+if+you+don't+know%2C+Now+you+know+%F0%9F%8E%B5" alt="Typing SVG" /></a>
-</div>
-
----

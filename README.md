@@ -30,30 +30,33 @@
   
   <p>&nbsp;</p>
 
-  <table width="100%" border="0" cellpadding="10">
-    <tr valign="top">
-      <!-- Back-End & DB -->
-      <td width="33%" align="center">
-        <h4 style="color: #2977F7;">Back-End & Data</h4>
-        <br>
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
-      </td>
-      <!-- Front-End & Design -->
-      <td width="33%" align="center">
-        <h4 style="color: #2977F7;">Front-End & UX/UI</h4>
-        <br>
-        <img src="https://skillicons.dev/icons?i=nextjs,react" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
-        <br><br>
-        <img src="https://skillicons.dev/icons?i=ts,js,html,css" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
-      </td>
-      <!-- Ferramentas & Processos -->
-      <td width="33%" align="center">
-        <h4 style="color: #2977F7;">Ferramentas</h4>
-        <br>
-        <img src="https://skillicons.dev/icons?i=git,github,figma,notion,trello" height="50" style="filter: drop-shadow(0 0 6px rgba(41, 119, 247, 0.3));" />
-      </td>
-    </tr>
-  </table>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### Back-End & Data
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+
+</td>
+
+<td align="center" width="33%">
+
+### Front-End & UX/UI
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+
+</td>
+
+<td align="center" width="33%">
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,notion" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <br><br>

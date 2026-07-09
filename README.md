@@ -3,18 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=3000&color=2977F7&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+Kau%C3%AA+Sergio;Desenvolvedor+Full+Stack+C%23+%2F+.NET;" alt="Typing SVG" />
 
   <!-- Divisor Gradiente -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <defs>
-      <linearGradient id="blue-rgb-gradient-rev" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#16161E" />
-        <stop offset="50%" stop-color="#2977F7" />
-        <stop offset="100%" stop-color="#16161E" />
-      </linearGradient>
-    </defs>
-    <rect width="1200" height="4" fill="url(#blue-rgb-gradient-rev)" rx="2">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
 
   <br>
   
@@ -37,9 +26,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Tecnologias+e+Ferramentas;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 
@@ -75,9 +64,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Certifica%C3%A7%C3%B5es;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 
@@ -105,9 +92,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Projetos+em+Destaque;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 
@@ -181,9 +166,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=M%C3%A9tricas+%26+An%C3%A1lises;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 
@@ -191,11 +174,17 @@
     <tr>
       <!-- Cartão Principal de Métricas do Github (TokyoNight simplificado para maior compatibilidade) -->
       <td align="center" width="50%" valign="middle">
-        <img height="150" src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=KaueCMP2&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+       <img
+          height="200"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api?username=KaueCMP2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&icon_color=00CFFF&border_color=2977F7"
+        />
       </td>
       <!-- Top Languages (Donut) -->
       <td align="center" width="50%" valign="middle">
-        <img height="150" src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs/?username=KaueCMP2&layout=compact&langs_count=5&theme=dracula" />
+        <img
+          height="200"
+          src="https://github-readme-stats-git-working-kaue-cmp.vercel.app/api/top-langs?username=KaueCMP2&layout=compact&langs_count=6&hide_border=true&bg_color=16161E&title_color=2977F7&text_color=E4E4E7&border_color=2977F7"
+        />
       </td>
     </tr>
   </table>
@@ -212,9 +201,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Hist%C3%B3rico+de+Atividade;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 
@@ -227,9 +214,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Foco+e+Objetivos+%7C+2026;" alt="Typing SVG" />
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 6" width="100%">
-    <rect width="1200" height="3" fill="url(#blue-rgb-gradient-rev)" rx="1.5" />
-  </svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
   <br>
 

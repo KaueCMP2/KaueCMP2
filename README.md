@@ -5,7 +5,7 @@
   <!-- Divisor Gradiente -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
 
-  <br>
+  <p>&nbsp;</p>
   
   <p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;">
     <strong>Desenvolvedor Full Stack</strong> especializado no ecossistema <strong>.NET</strong>, com sólida experiência na criação de soluções escaláveis e resilientes. Atuo no desenvolvimento de APIs RESTful robustas usando <strong>C# e ASP.NET Core</strong>, mapeamento de banco de dados de alta performance com <strong>SQL Server / EF Core</strong>, e criação de interfaces modernas e responsivas utilizando <strong>Next.js, React e TypeScript</strong>.
@@ -25,8 +25,6 @@
 <!-- Seção: Tecnologias e Ferramentas -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=10000&color=2977F7&center=true&vCenter=true&width=900&lines=Tecnologias+e+Ferramentas;" alt="Typing SVG" />
-  
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
@@ -66,7 +64,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <a href="https://www.freecodecamp.org/certification/kauecmp/foundational-c-sharp-with-microsoft" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft%20%26%20freeCodeCamp-Foundational%20C%23-2977F7?style=for-the-badge&logo=csharp&logoColor=white" alt="Certificação C#" />
@@ -94,7 +92,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <!-- Grid de Projetos Modernos usando Tabelas HTML -->
   <table width="100%" border="0" cellpadding="8">
@@ -168,7 +166,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <table border="0" cellpadding="5" cellspacing="0" width="100%">
     <tr>
@@ -203,7 +201,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaueCMP2&bg_color=16161E&color=2977F7&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
 </div>
@@ -216,7 +214,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <table width="85%" border="0" cellpadding="8" style="border: 1px solid rgba(41, 119, 247, 0.3); border-radius: 12px; background-color: #16161E; text-align: left;">
     <tr>

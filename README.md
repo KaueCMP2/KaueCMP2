@@ -28,7 +28,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16161E,50:2977F7,100:16161E&height=3" width="100%" />
   
-  <br>
+  <p>&nbsp;</p>
 
   <table width="100%" border="0" cellpadding="10">
     <tr valign="top">

@@ -111,6 +111,7 @@
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+            <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
           <a href="https://github.com/KaueCMP2/TechStock-Fullstack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
@@ -124,8 +125,8 @@
             <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
             <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+            <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
           <a href="https://github.com/KaueCMP2/RoyalGames-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
@@ -143,6 +144,7 @@
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+            <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
           <a href="https://github.com/KaueCMP2/VhBurguer-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>
         </div>
@@ -157,6 +159,7 @@
             <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
             <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
           </div>
           <a href="https://github.com/KaueCMP2/GestaoPatrimonios-FullStack" target="_blank" style="color: #2977F7; font-weight: bold; text-decoration: none; font-size: 0.9em;">Acessar Repositório →</a>

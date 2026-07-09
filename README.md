@@ -17,17 +17,7 @@
   </svg>
 
   <br>
-
-<!-- Badges de Redes Sociais / Contatos -->
-<!-- <a href="https://linkedin.com/in/kaue-sergio" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn"/>
-</a>
-<a href="mailto:seu-email@provedor.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="Email" style="margin-left: 12px;" />
-</a>
-
-  <br><br> -->
-
+  
   <p align="center" style="max-width: 800px; font-size: 1.15em; line-height: 1.6; color: #A9B1D6;">
     <strong>Desenvolvedor Full Stack</strong> especializado no ecossistema <strong>.NET</strong>, com sólida experiência na criação de soluções escaláveis e resilientes. Atuo no desenvolvimento de APIs RESTful robustas usando <strong>C# e ASP.NET Core</strong>, mapeamento de banco de dados de alta performance com <strong>SQL Server / EF Core</strong>, e criação de interfaces modernas e responsivas utilizando <strong>Next.js, React e TypeScript</strong>.
   </p>
@@ -260,5 +250,5 @@
 <br>
 
 <div align="center">
-  <p style="color: #565F89; font-size: 0.85em;"><i>README gerado com 💙 e boas práticas de design para desenvolvedores.</i></p>
+  <p style="color: #565F89; font-size: 0.85em;"><i>@KaueCMP2</i></p>
 </div>
